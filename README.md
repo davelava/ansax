@@ -86,7 +86,7 @@ El **Sistema de Gestión de Proyectos de FuturaSoft** es una aplicación diseña
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ## Contacto
-Para cualquier consulta o sugerencia, por favor contacta con el equipo de FuturaSoft en [contacto@futurasoft.com](mailto:contacto@futurasoft.com).
+Para cualquier consulta o sugerencia, por favor contacta con el equipo de FuturaSoft en [contacto@futurasoft.com](mailto:info@futurasoft.net).
 
 ---
 
